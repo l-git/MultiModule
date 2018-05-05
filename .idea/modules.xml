@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-dao/simple-dao.iml" filepath="$PROJECT_DIR$/simple-dao/simple-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-domain/simple-domain.iml" filepath="$PROJECT_DIR$/simple-domain/simple-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-parent/simple-parent.iml" filepath="$PROJECT_DIR$/simple-parent/simple-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-service/simple-service.iml" filepath="$PROJECT_DIR$/simple-service/simple-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-util/simple-util.iml" filepath="$PROJECT_DIR$/simple-util/simple-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-webapp/simple-webapp.iml" filepath="$PROJECT_DIR$/simple-webapp/simple-webapp.iml" />
+    </modules>
+  </component>
+</project>
